@@ -12,6 +12,6 @@ Collection of data structures and algorithms
   * Min-heap
   
 ## Algorithms
-###Searching
+### Searching
 * Binary search
 * More to be added soon
