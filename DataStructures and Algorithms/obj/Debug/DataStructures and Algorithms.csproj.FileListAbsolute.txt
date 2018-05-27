@@ -1,0 +1,6 @@
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\bin\Debug\DataStructures and Algorithms.exe.config
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\bin\Debug\DataStructures and Algorithms.exe
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\bin\Debug\DataStructures and Algorithms.pdb
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\obj\Debug\DataStructures and Algorithms.csprojResolveAssemblyReference.cache
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\obj\Debug\DataStructures and Algorithms.exe
+E:\Quyen Tran\Documents\Programming\Structures and Algorithms\DataStructures and Algorithms\DataStructures and Algorithms\obj\Debug\DataStructures and Algorithms.pdb
